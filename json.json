@@ -1,0 +1,37 @@
+[
+{
+  "frame": "Aluminum",
+  "handbreak": "type1",
+  "tyres": "tube",
+  "chain_assambly": "type1",
+  "date": "2018-12-10T13:45:00.000Z"
+},
+  {
+  "frame": "Iron",
+  "handbreak": "type1",
+  "tyres": "tube",
+  "chain_assambly": "type1",
+  "date": "2018-11-10T13:46:10.000Z"
+},
+  {
+  "frame": "Aluminum",
+  "handbreak": "type1",
+  "tyres": "tube",
+  "chain_assambly": "type1",
+  "date": "2018-12-10T13:45:00.000Z"
+},
+  {
+  "frame": "Iron",
+  "handbreak": "type1",
+  "tyres": "tube",
+  "chain_assambly": "type1",
+  "date": "2018-11-10T13:46:10.000Z"
+},
+    {
+  "frame": "Iron",
+  "handbreak": "type2",
+  "tyres": "tubeless",
+  "chain_assambly": "type1",
+  "date": "2018-11-10T13:46:10.000Z"
+}
+]
