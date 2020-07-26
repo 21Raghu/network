@@ -1,2 +1,2 @@
 # network
-API which can fetch data from the front end and show activity on html with back-APIs
+reading data from .json and calculate the total cost of cycle
